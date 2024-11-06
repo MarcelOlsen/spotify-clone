@@ -49,7 +49,7 @@ export interface Product {
     name?: string;
     description?: string;
     metadata?: Stripe.Metadata;
-    image?: string[];
+    image?: string;
     active?: boolean;
 }
 

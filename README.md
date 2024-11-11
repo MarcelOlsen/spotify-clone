@@ -2,7 +2,7 @@
 
 This project is a clone of Spotify built using Next.js. It aims to replicate the core functionalities of Spotify, including music streaming, liked songs, and user authentication.
 
-Made with inspiration from [this tutorial](https://www.youtube.com/watch?v=2aeMRB8LL4o) and a lot of debugging, since it uses next 13 and not next 15.
+Inspired by [this tutorial](https://www.youtube.com/watch?v=2aeMRB8LL4o) and a lot of debugging, since it uses next 13 and not next 15.
 
 Notes:
 
